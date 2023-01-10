@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="LuoboClient">
+    <output-path>$PROJECT_DIR$/out/artifacts/LuoboClient</output-path>
+    <root id="archive" name="LuoboClient.jar">
+      <element id="module-output" name="minecraft" />
+    </root>
+  </artifact>
+</component>
